@@ -1,0 +1,91 @@
+body
+{
+	font-size:20px;
+}
+.tableNoOne
+{
+	width:1024PX;
+	//border: 1px solid red;
+	margin-top: 35px;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+.tableNoTwo
+{
+	width:1024PX;
+	//border: 1px solid red;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+.tableNoThreeOne
+{
+	width:512PX;
+	//border: 1px solid red;
+	padding-right: 10px;
+}
+.tableNoThreeTwo
+{
+	width:512PX;
+	//border: 1px solid red;
+	padding-left: 10px;
+}
+.tableNofour
+{
+	width:100%;
+	//border: 1px solid BLUE;
+}
+.tableNofive
+{
+	width:512PX;
+	//border: 1px solid red;
+	padding-left: 5px;
+	padding-right: 0px;
+}
+th, td
+{
+	//border: 1px solid green;
+}
+.tdStyle
+{
+	width:150px;
+	text-decoration:underline;
+}
+.alignLeft
+{
+	float: right;
+}
+.alignRight
+{
+	float: left;
+}
+.tdStyleNoUnder
+{
+	width:170px;
+}
+.tdStyleNoUnderLine
+{
+	width:170px;
+}
+.tdStyleForImage
+{
+	width:128px;
+}
+.hrLength
+{
+	width:1024px;
+}
+.tableNoSix
+{
+	width:180px;
+}
+.tableNoSeven
+{
+	width:150px;
+	//border: 1px solid green;
+}
+.border
+{
+	width:150px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
